@@ -1,6 +1,6 @@
-#!/bin/python
 import datetime as dtm
 import time
+import pyart
 
 while True:
     dt = dtm.datetime.now() + dtm.timedelta(hours=1)

@@ -1,5 +1,8 @@
 numpy
 matplotlib
+h5py
+netCDF4
+arm_pyart
 requests
 python-twitter
 imageio

@@ -1,1 +1,1 @@
-worker: ./run_hourly.py
+worker: python run_hourly.py
